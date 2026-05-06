@@ -19,7 +19,7 @@ public class ShawnSpike : MonoBehaviour
         // check if the object that entered the trigger is the player
         if (other.CompareTag("Player"))
         {
-            Debug.Log("GG. Hit spikes.");
+            Debug.Log("GG. Hit spikes. Soul has checked out~");
             // add other logic here, such as reducing player health or restarting the level
         }
     }
