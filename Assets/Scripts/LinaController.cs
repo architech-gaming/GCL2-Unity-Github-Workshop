@@ -6,6 +6,7 @@ public class LinaController : MonoBehaviour
     void Start()
     {
         Debug.Log("Health restored!");
+        Debug.Log("hi");
     }
 
     // Update is called once per frame
